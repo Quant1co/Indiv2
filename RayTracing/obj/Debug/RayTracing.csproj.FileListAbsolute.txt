@@ -1,0 +1,10 @@
+D:\Лабы Компграфики\computer_graphics-master\ind2\RayTracing\bin\Debug\RayTracing.exe.config
+D:\Лабы Компграфики\computer_graphics-master\ind2\RayTracing\bin\Debug\RayTracing.exe
+D:\Лабы Компграфики\computer_graphics-master\ind2\RayTracing\bin\Debug\RayTracing.pdb
+D:\Лабы Компграфики\computer_graphics-master\ind2\RayTracing\obj\Debug\RayTracing.csproj.AssemblyReference.cache
+D:\Лабы Компграфики\computer_graphics-master\ind2\RayTracing\obj\Debug\RayTracing.Form1.resources
+D:\Лабы Компграфики\computer_graphics-master\ind2\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+D:\Лабы Компграфики\computer_graphics-master\ind2\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+D:\Лабы Компграфики\computer_graphics-master\ind2\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+D:\Лабы Компграфики\computer_graphics-master\ind2\RayTracing\obj\Debug\RayTracing.exe
+D:\Лабы Компграфики\computer_graphics-master\ind2\RayTracing\obj\Debug\RayTracing.pdb
