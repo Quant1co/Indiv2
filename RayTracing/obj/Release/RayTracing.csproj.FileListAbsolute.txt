@@ -18,3 +18,13 @@ D:\ind2\RayTracing\obj\Release\RayTracing.csproj.GenerateResource.cache
 D:\ind2\RayTracing\obj\Release\RayTracing.csproj.CoreCompileInputs.cache
 D:\ind2\RayTracing\obj\Release\RayTracing.exe
 D:\ind2\RayTracing\obj\Release\RayTracing.pdb
+D:\ind2\Indiv2\RayTracing\bin\Release\RayTracing.exe.config
+D:\ind2\Indiv2\RayTracing\bin\Release\RayTracing.exe
+D:\ind2\Indiv2\RayTracing\bin\Release\RayTracing.pdb
+D:\ind2\Indiv2\RayTracing\obj\Release\RayTracing.csproj.AssemblyReference.cache
+D:\ind2\Indiv2\RayTracing\obj\Release\RayTracing.Form1.resources
+D:\ind2\Indiv2\RayTracing\obj\Release\RayTracing.Properties.Resources.resources
+D:\ind2\Indiv2\RayTracing\obj\Release\RayTracing.csproj.GenerateResource.cache
+D:\ind2\Indiv2\RayTracing\obj\Release\RayTracing.csproj.CoreCompileInputs.cache
+D:\ind2\Indiv2\RayTracing\obj\Release\RayTracing.exe
+D:\ind2\Indiv2\RayTracing\obj\Release\RayTracing.pdb

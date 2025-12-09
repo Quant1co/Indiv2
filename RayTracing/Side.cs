@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RayTracing
+namespace RayTracing 
 {
     public class Side
     {

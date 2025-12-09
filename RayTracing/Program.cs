@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace RayTracing
 {
-    static class Program
+    static class Program 
     {
         /// <summary>
         /// Главная точка входа для приложения.
